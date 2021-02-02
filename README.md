@@ -1,5 +1,11 @@
 # index
 
+## Encryption
+
+02FEB21 - *Implement at least one cipher or encryption algorithm of your choosing in a language of your choosing.*
+
+* [tp-encryption](https://github.com/CSCoursework/tp-encryption) - Tom, Golang
+
 ## A*
 
 28JAN21 - *Translate [this](https://medium.com/@nicholas.w.swift/easy-a-star-pathfinding-7e6689c7f7b2) implementation of the A\* pathfinding algorithm into a language of your choosing. Add embellishments if you wish.*
