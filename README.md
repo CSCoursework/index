@@ -4,6 +4,7 @@
 
 28JAN21 - *Translate [this](https://medium.com/@nicholas.w.swift/easy-a-star-pathfinding-7e6689c7f7b2) implementation of the A\* pathfinding algorithm into a language of your choosing. Add embellishments if you wish.*
 
+* [Astar](https://github.com/CSCoursework/Astar) - Vivek, C#
 * [A-Star](https://github.com/CSCoursework/A-Star) - Lewie, JS and HTML/CSS
 * [tp-astar](https://github.com/CSCoursework/tp-astar) - Tom, Golang with image generation
 
