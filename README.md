@@ -4,6 +4,7 @@
 
 02FEB21 - *Implement at least one cipher or encryption algorithm of your choosing in a language of your choosing.*
 
+* [Encryption](https://github.com/CSCoursework/Encryption) - Vivek, Python
 * [tp-encryption](https://github.com/CSCoursework/tp-encryption) - Tom, Golang
 
 ## A*
