@@ -1,5 +1,11 @@
 # index
 
+## TicTacToe
+
+14OCT21 - *Implement TicTacToe in JavaScript*
+
+* [tp-tictactoe](https://github.com/CSCoursework/tp-tictactoe)
+
 ## Encryption
 
 02FEB21 - *Implement at least one cipher or encryption algorithm of your choosing in a language of your choosing.*
